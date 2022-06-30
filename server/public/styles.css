@@ -24,3 +24,10 @@ header {
 .team2 {
   background-color: plum;
 }
+
+.plus {
+  background-color: lightgreen;
+}
+.minus {
+  background-color: lightcoral;
+}
